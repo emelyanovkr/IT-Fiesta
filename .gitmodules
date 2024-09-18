@@ -1,0 +1,6 @@
+[submodule "IT-Fiesta-frontend"]
+	path = IT-Fiesta-frontend
+	url = https://github.com/emelyanovkr/IT-Fiesta-frontend.git
+[submodule "IT-Fiesta-backend"]
+	path = IT-Fiesta-backend
+	url = https://github.com/emelyanovkr/IT-Fiesta-backend.git
